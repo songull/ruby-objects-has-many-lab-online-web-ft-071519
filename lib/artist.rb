@@ -24,5 +24,5 @@ class Artist
 		Song.all.length
 	end
 
-end 
+end
   24  lib/author.rb 
